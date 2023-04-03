@@ -13,12 +13,6 @@
 ![Admin Page](https://github.com/itswadesh/foodfire/blob/master/static/screenshots/admin.jpg?raw=true)
 ![Error Page](https://github.com/itswadesh/foodfire/blob/master/static/screenshots/error.jpg?raw=true)
 
-## Quick start
-
-> Make sure you have **Node** version >= 10.x, **NPM** >= 6.x
-> Yarn version >= 1.x
-> Clone the repo
-> `git clone https://github.com/itswadesh/foodfire.git`
 
 ### navigate inside the directory
 
